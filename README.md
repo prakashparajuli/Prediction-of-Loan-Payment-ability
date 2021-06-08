@@ -17,6 +17,7 @@ In this project, I am using numerous datasets provided by Home Credit Inc.:
 
 
 ## Summary
+Extensive data wrangling and feature engineering has been done. Outliers and missing values were imputed by analyzing the pattern of each feature. Numerous aggregate features were extracted. All the datasets were merged. Performed various inferential statistics such as WOE and IV,  and Chi-square test. Finally, various supervised machine learning algorithms: LR, L1/LR, RF,AdaBoost, XgBoost, and LGBM were tested and final model was obtained after hyperparameter tuning. LGBM perormed well with ROC_AUC > 0.75. Various feature selection techniques such as RFECV and PCA were employed. SMOTE and Oversampling techniques were implemented to balance the class imbalance Target. 
 
 ### Key Findings
 1. All sources of datasets contributed to the predictive power of the model. 
