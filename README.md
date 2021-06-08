@@ -23,9 +23,12 @@ In this project, I am using numerous datasets provided by Home Credit Inc.:
 2. Model performance scores are exceptionally high with three features External Sources 1,2,3; these features are not clearly explained and also contains higher fraction of missing values. Hence, I excluded these features for modelling.  
 3. Out of 6 supervised classification models, Light GBM provided the best results, ROC_AUC 0.75.
 4. Top factors that affect the loan repayment ability are: Amount_Credit, Amount_Annuity and Installment payment amount.
-5. Based on the business perspective, as illustrated below applicants lying on the last tier can be completely declined and on second tier can be handled manually and all others can be blindly approved.
+5. Based on the business perspective, as illustrated below I divided applicants into 10 tier, applicants lying on the last tier can be completely declined and on second tier can be handled manually and all others can be blindly approved.
 
-https://drive.google.com/file/d/1b4ViXdOxy94S6YrTJrAEFNeVd3kD96wG/view?usp=sharing
+
+<a href="https://drive.google.com/uc?export=view&id=1b4ViXdOxy94S6YrTJrAEFNeVd3kD96wG/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1b4ViXdOxy94S6YrTJrAEFNeVd3kD96wG/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
+
 
 ## Further Reading
 [Full Project Report](https://drive.google.com/file/d/11Zp79zvFdPQdOuRCEarYdd9GLgddAF49/view?usp=sharing)
