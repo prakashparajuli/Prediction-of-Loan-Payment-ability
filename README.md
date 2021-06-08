@@ -26,7 +26,8 @@ In this project, I am using numerous datasets provided by Home Credit Inc.:
 5. Based on the business perspective, as illustrated below I divided applicants into 10 tier, applicants lying on the last tier can be completely declined and on second tier can be handled manually and all others can be blindly approved.
 
 
-<a href="https://drive.google.com/uc?export=view&id=1b4ViXdOxy94S6YrTJrAEFNeVd3kD96wG/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1b4ViXdOxy94S6YrTJrAEFNeVd3kD96wG/view?usp=sharing" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+![Business Perspectives](https://user-images.githubusercontent.com/66859479/121265819-0a0da400-c87f-11eb-8f9c-a4e7b2c32035.JPG)
+
 
 
 
